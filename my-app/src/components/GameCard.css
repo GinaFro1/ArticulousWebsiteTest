@@ -1,0 +1,16 @@
+.game-card {
+  width: 150px;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.game-card.expanded {
+  width: 280px;
+}
+
+.game-card .icon {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}

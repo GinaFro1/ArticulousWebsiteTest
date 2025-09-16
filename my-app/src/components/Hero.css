@@ -1,0 +1,18 @@
+.hero {
+  text-align: center;
+  padding: 80px 20px;
+  margin: 40px;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin: 0;
+  background: var(--accent);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.hero h3 {
+  margin-top: 15px;
+  color: #e0e0e0;
+}

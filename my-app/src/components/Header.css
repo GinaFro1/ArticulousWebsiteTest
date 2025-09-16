@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  margin: 20px;
+}
+
+.header nav a {
+  margin: 0 15px;
+  font-weight: 500;
+  color: white;
+}
+
+.join-btn {
+  background: var(--accent);
+  padding: 8px 18px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+}
